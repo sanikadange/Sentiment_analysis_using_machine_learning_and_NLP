@@ -1,0 +1,2 @@
+# Sentiment_analysis_using_machine_learning_and_NLP
+The project uses **NLP tools** like VADER and TextBlob and **machine learning** to analyze customer feedback, breaking it into aspects to determine sentiment (positive, negative, or neutral). Built with **Streamlit**, it also provides recommendations for purchasing decisions, helping businesses improve features and understand customer preferences.
